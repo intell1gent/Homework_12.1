@@ -1,0 +1,9 @@
+
+.road {
+  width: 1000px;
+}
+
+ @keyframes car {
+  25% {left: 0px;}
+  50% {left: 1000px;}
+}
